@@ -1,0 +1,92 @@
+[
+  {
+    "image": "image1.jpg",
+    "title": "Product1",
+    "reviews": "200 users reviewed",
+    "tagline": "A Product TO BE CHERISED"
+  },
+  {
+    "image": "image2.jpg",
+    "title": "Product2",
+    "reviews": "180 users reviewed",
+    "tagline": "Best seller of the month"
+  },
+  {
+    "image": "image3.jpg",
+    "title": "Product3",
+    "reviews": "150 users reviewed",
+    "tagline": "Loved by techies"
+  },
+  {
+    "image": "image4.jpg",
+    "title": "Product4",
+    "reviews": "170 users reviewed",
+    "tagline": "Popular choice for families"
+  },
+  {
+    "image": "image5.jpg",
+    "title": "Product5",
+    "reviews": "190 users reviewed",
+    "tagline": "Trusted by professionals"
+  },
+  {
+    "image": "image6.jpg",
+    "title": "Product6",
+    "reviews": "210 users reviewed",
+    "tagline": "Best value guaranteed"
+  },
+  {
+    "image": "image7.jpg",
+    "title": "Product7",
+    "reviews": "160 users reviewed",
+    "tagline": "Top-rated in quality"
+  },
+  {
+    "image": "image8.jpg",
+    "title": "Product8",
+    "reviews": "220 users reviewed",
+    "tagline": "Customer favorite"
+  },
+  {
+    "image": "image9.jpg",
+    "title": "Product9",
+    "reviews": "140 users reviewed",
+    "tagline": "Innovative and reliable"
+  },
+  {
+    "image": "image10.jpg",
+    "title": "Product10",
+    "reviews": "130 users reviewed",
+    "tagline": "Built for everyday use"
+  },
+  {
+    "image": "image11.jpg",
+    "title": "Product11",
+    "reviews": "165 users reviewed",
+    "tagline": "Modern design, smart choice"
+  },
+  {
+    "image": "image12.jpg",
+    "title": "Product12",
+    "reviews": "155 users reviewed",
+    "tagline": "A premium experience"
+  },
+  {
+    "image": "image13.jpg",
+    "title": "Product13",
+    "reviews": "175 users reviewed",
+    "tagline": "Performance meets style"
+  },
+  {
+    "image": "image14.jpg",
+    "title": "Product14",
+    "reviews": "185 users reviewed",
+    "tagline": "Designed for durability"
+  },
+  {
+    "image": "image15.jpg",
+    "title": "Product15",
+    "reviews": "195 users reviewed",
+    "tagline": "Highly recommended by users"
+  }
+]
